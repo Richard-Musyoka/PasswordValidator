@@ -1,4 +1,3 @@
-
 I'm a Passionate Software Engineer
 🔭 I’m currently specializing on Android and Full-Stack Web development
 👯 I’m looking to collaborate on Android and Machine Learning
